@@ -13,7 +13,7 @@ Topics: Array, Sliding Window
 3. Can prices be negative?
 ## Match
 1. Sliding Window\
-   Record the local maximum and update the max profit if the larger local maximum is found.
+   Record the minimum price encountered so far and the local maximum and update the max profit if the larger local maximum is found.
 ## Plan
 General Idea: Keep updating the minimum price for calculating the local maximum profit. Return the largest local maximum profit.
 1. Initialize the minimum price to the first element in the array and `max_profit` to 0.
