@@ -1,5 +1,5 @@
 # 1. Valid Anagram
-Link: [Two Sum](https://leetcode.com/problems/valid-anagram/description/)\
+Link: [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)\
 Difficulty: Easy\
 Topics: Hash map
 
